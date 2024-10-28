@@ -54,7 +54,7 @@
     <None Include="App.config" />
     <None Include="OpenTK.dll.config" />
     <None Include="packages.config" />
-    <None Include="raspunsuri.md" />
+    <None Include="Raspunsuri.md" />
     <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
